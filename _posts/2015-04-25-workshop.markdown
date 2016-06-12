@@ -1,6 +1,7 @@
 ---
 title:  "Snap"
 subtitle: "A 2 player game"
+image: "img/f.jpg"
 ---
 
 ### Dolor sit amet?
