@@ -3,7 +3,7 @@
 
 .card {
 	position: relative;
-	float: left;
+	/*float: left;*/
 	width: 29%;
 	height: 0;
 	margin: 2%;
