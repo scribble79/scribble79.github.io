@@ -292,7 +292,7 @@ a:focus {
 
 .wrapper {
 	overflow: auto;
-	width: 50%;
+	width: 95%;
 	max-width: 1366px;
 	margin: 0 auto;
 }
