@@ -28,12 +28,12 @@ layout: compress
 <body class="body">
 <div class="container">
     <header class="header">
-        <h1>Snita Bharth<span>Full Stack Web Developer</span></h1>
+        <h1>Modern Blog<span>A Clean, Fresh Minimal Look.</span></h1>
         <nav class="links">
-            <a href="https://www.linkedin.com/in/snitabharth"><i class="fa fa-linkedin-square fa-3x"></i></a>
-            <a href="https://github.com/scribble79"><i class="fa fa-github-square fa-3x"></i></a>
-            <a href="https://www.instagram.com/scribble79/"><i class="fa fa-instagram fa-3x"></i></a>
-            <!-- <a href="mailto:snitabharth79@gmail.com" target="_top"><i class="fa fa-envelope-o fa-3x"></i></a> -->
+            <a href="#"><i class="fa fa-twitter-square fa-3x"></i></a>
+            <a href="#"><i class="fa fa-instagram fa-3x"></i></a>
+            <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a>
+            <a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a>
         </nav>
     </header>
     <div class="content">
@@ -61,6 +61,12 @@ layout: compress
                             <h2 class="card__title">{{ post.title }}</h2>
                             <p class="card__subtitle">{{ post.subtitle }}</p>
                         </div>
+                        <div class="card__copy">
+                            <div class="meta">
+                                <img class="meta__avatar" src="{{ post.avatar }}"/>
+                                <span class="meta__author">{{ post.author }}</span>
+                                <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                            </div>
                             {{ post.content }}
                         </div>
                     </div>
