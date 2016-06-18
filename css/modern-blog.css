@@ -8,6 +8,7 @@
 	height: 0;
 	margin: 6%;
 	padding-bottom: 20%;
+	margin-top: 100px;
 }
 
 .card__container {
@@ -72,7 +73,7 @@
 .card__container--closed .card__caption {
 	font-size: 1em;
 	max-width: auto;
-	padding: 100px 100px 125px;
+	padding: 10px 10px 25px;
 	-webkit-transform: translateY(-100%);
 	-ms-transform: translateY(-100%);
 	transform: translateY(-100%);
