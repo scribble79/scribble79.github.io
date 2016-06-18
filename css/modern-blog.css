@@ -21,10 +21,10 @@
 	-webkit-overflow-scrolling: touch;
 }
 
-.card__container--closed {
+/*.card__container--closed {
 	position: absolute;
 	overflow: hidden;
-}
+}*/
 
 /*.card__image {
 	position: absolute;
