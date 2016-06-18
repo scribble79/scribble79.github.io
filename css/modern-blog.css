@@ -123,7 +123,7 @@
 }
 
 .card__container--closed .card__btn-close {
-	display: none;
+	display: inline;
 }
 
 .meta {
