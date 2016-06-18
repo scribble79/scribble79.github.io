@@ -4,6 +4,7 @@
 .card {
 	position: relative;
 	/*float: left;*/
+	display: inline-block;
 	width: 35%;
 	height: 0;
 	margin: 2%;
