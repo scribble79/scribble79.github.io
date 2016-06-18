@@ -22,7 +22,8 @@
 }
 
 .card__container--closed {
-	position: absolute;
+	position: relative;
+	display: inline-block;
 	overflow: hidden;
 }
 
