@@ -284,7 +284,7 @@ a:focus {
 }
 
 .links a {
-	display: block;
+	display: inline-block;
 	margin: 0 .5em;
 }
 
