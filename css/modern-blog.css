@@ -4,11 +4,10 @@
 .card {
 	position: relative;
 	float: left;
-	width: 35%;
+	width: 37%;
 	height: 0;
-	margin: 6%;
+	/*margin: 6%;*/
 	padding-bottom: 20%;
-	margin-top: 1000px;
 }
 
 .card__container {
