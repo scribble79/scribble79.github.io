@@ -11,7 +11,7 @@
 }
 
 .card__container {
-	position: fixed;
+	position: relative;
 	display: inline;
 	top: 0;
 	left: 0;
