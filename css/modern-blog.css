@@ -123,7 +123,7 @@
 }
 
 .card__container--closed .card__btn-close {
-	display: inline;
+	display: none;
 }
 
 .meta {
@@ -195,7 +195,7 @@
 .clearfix:before,
 .clearfix:after {
 	content: '';
-	display: table;
+	display: inline;
 }
 
 .clearfix:after {
