@@ -38,6 +38,7 @@
 .card__container--closed .card__image {
 	position: relative;
 	cursor: pointer;
+	display: inline-flex;
 }
 /* Fix IE */
 
