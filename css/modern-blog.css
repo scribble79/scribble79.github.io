@@ -35,10 +35,10 @@
 	height: 100%;
 }*/
 
-.card__container--closed .card__image {
+/*.card__container--closed .card__image {
 	position: relative;
 	cursor: pointer;
-}
+}*/
 /* Fix IE */
 
 .card__container--fix-image .card__image {
