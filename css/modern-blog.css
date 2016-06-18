@@ -27,7 +27,7 @@
 }
 
 .card__image {
-	position: absolute;
+	/*position: absolute;*/
 	top: 0;
 	left: 0;
 	display: block;
@@ -37,7 +37,6 @@
 
 .card__container--closed .card__image {
 	position: relative;
-	display: block;
 	cursor: pointer;
 }
 /* Fix IE */
