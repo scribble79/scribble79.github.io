@@ -12,7 +12,7 @@
 
 .card__container {
 	position: fixed;
-	top: -20;
+	top: -100;
 	left: 0;
 	overflow-x: hidden;
 	overflow-y: auto;
