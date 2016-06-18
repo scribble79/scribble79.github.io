@@ -195,7 +195,7 @@
 .clearfix:before,
 .clearfix:after {
 	content: '';
-	display: inline;
+	display: block;
 }
 
 .clearfix:after {
