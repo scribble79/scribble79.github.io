@@ -128,8 +128,8 @@
 
 .meta {
 	font-size: .85em;
-	display: -webkit-flex;
-	display: flex;
+	display: -webkit-block;
+	display: block;
 	padding: 0 0 35px 0;
 
 	-webkit-align-items: center;
