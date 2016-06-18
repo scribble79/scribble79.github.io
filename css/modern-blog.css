@@ -43,6 +43,7 @@
 
 .card__container--fix-image .card__image {
 	position: fixed;
+	display: inline;
 }
 
 .card__content {
@@ -60,7 +61,6 @@
 	padding: 0 16px;
 	pointer-events: none;
 	background: transparent;
-	display: inline;
 }
 
 .card__caption {
