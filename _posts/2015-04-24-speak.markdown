@@ -10,4 +10,4 @@ Speak is an app for artists. The app allows users to upload their videos, and al
 Ruby, Sinatra, Pure, Carrierwave.
 
 
-<a href="https://github.com/scribble79/WDI-PROJECT-2">View Project</a>
+<a href="https://github.com/scribble79/WDI-PROJECT-2"><i class="fa fa-external-link-square fa-3x" aria-hidden="true"></i></a>

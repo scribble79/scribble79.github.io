@@ -10,4 +10,4 @@ Excess is an app that allows users to donate and receive excess food that would 
 JavaScript, jQuery, Google maps API, geocode, mongo dB/ mongoose, image picker, skeleton and SCSS, Trello, Marvel, TDD, Mocha, Chai and JWT
 
 
-<a href="https://excess.herokuapp.com/">View Project</a>
+<a href="https://excess.herokuapp.com/"><i class="fa fa-external-link-square fa-3x" aria-hidden="true"></i></a>

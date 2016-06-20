@@ -10,4 +10,4 @@ For my 4th project I built a website for Bermondsey and Rotherhithe Children’s
 AngularJS, Google maps API, Mongoose, CSS, Bootstrap, Trello, Marvel, Node, Express, and JWT
 
 
-<a href="https://southwark-childrens-centres.herokuapp.com/#/">View Project</a>
+<a href="https://southwark-childrens-centres.herokuapp.com/#/"><i class="fa fa-external-link-square fa-3x" aria-hidden="true"></i></a>
