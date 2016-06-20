@@ -6,7 +6,7 @@ image: "img/c.jpg"
 
 Excess is an app that allows users to donate and receive excess food that would have otherwise gone to waste. Users are able to login to the app and input their postcode to geo locate themselves. Once they have logged in they can then donate food by creating a marker on Google maps stating what they have to offer and add contact details, collection time and mark the collection point by inputting a postcode which will pin point the collection spot on Google maps.
 
-###Tech
+### Tech
 JavaScript, jQuery, Google maps API, geocode, mongo dB/ mongoose, image picker, skeleton and SCSS, Trello, Marvel, TDD, Mocha, Chai and JWT
 
 
