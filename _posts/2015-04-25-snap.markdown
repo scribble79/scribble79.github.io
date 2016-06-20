@@ -11,5 +11,5 @@ Snap is a game for young children to play. The game is themed on the Alice in Wo
 JavaScript, jQuery, Heroku
 
 
-<a href="https://powerful-bastion-45112.herokuapp.com/">View Project</a>
+<a href="https://powerful-bastion-45112.herokuapp.com/">View Project<i class="fa fa-external-link" aria-hidden="true"></i></a>
 <!-- <a href="https://github.com/scribble79/WDI-PROJECT-1"><i class="fa fa-github-square fa-3x"></i></a> -->
