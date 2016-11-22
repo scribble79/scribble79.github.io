@@ -10,4 +10,4 @@ Speak is an app for artists. The app allows users to upload their videos, and al
 Ruby, Sinatra, Pure, Carrierwave.
 
 
-<a href="https://pure-gorge-25426.herokuapp.com/"><i class="fa fa-external-link-square fa-3x" aria-hidden="true"></i></a>
+<a href="https://pure-gorge-25426.herokuapp.com/">View project</a>
